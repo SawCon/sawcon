@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="179.155" height="106.264" viewBox="0 0 179.155 106.264">
+  <g id="Group_8" data-name="Group 8" transform="translate(-450.922 -706.349)">
+    <path id="Path_24" data-name="Path 24" d="M7,1062.434l31.544-82H186.155l-30.277,82Z" transform="translate(443.922 -256.322)" fill="rgba(18,18,18,0.92)"/>
+    <g id="Group_7" data-name="Group 7">
+      <path id="Path_20" data-name="Path 20" d="M7,1021.434l15.772-41H96.578l-15.138,41Z" transform="translate(443.922 -215.322)" fill="#1eaa9b"/>
+      <path id="Path_23" data-name="Path 23" d="M7,1021.434l15.772-41H96.578l-15.138,41Z" transform="translate(533.5 -256.322)" fill="#f37353"/>
+      <text id="s" transform="matrix(0.999, 0.035, -0.035, 0.999, 498.165, 757.353)" fill="#fff" font-size="53" font-family="MontserratAlternates-SemiBoldItalic, Montserrat Alternates" font-weight="600" font-style="italic"><tspan x="0" y="0">s</tspan></text>
+      <text id="c" transform="translate(553.289 799.613)" fill="#fff" font-size="53" font-family="MontserratAlternates-SemiBoldItalic, Montserrat Alternates" font-weight="600" font-style="italic"><tspan x="0" y="0">c</tspan></text>
+    </g>
+  </g>
+</svg>
