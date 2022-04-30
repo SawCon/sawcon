@@ -330,7 +330,7 @@ form div:last-child button{
     gap: 1.5rem;
 }
 
-@media screen and (max-width: 426px){
+@media screen and (max-width: 576px){
     #navbarSupportedContent{
         padding: 1rem;
     }
